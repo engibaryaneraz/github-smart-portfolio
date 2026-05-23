@@ -1,0 +1,94 @@
+.gsp-archive {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.gsp-archive h1 {
+    margin-bottom: 24px;
+}
+
+.gsp-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+}
+
+.gsp-card {
+    border: 1px solid #e0e0e0;
+    padding: 16px;
+    border-radius: 8px;
+    background: #ffffff;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+}
+
+.gsp-title {
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.gsp-title a {
+    text-decoration: none;
+    color: #222;
+}
+
+.gsp-title a:hover {
+    text-decoration: underline;
+}
+
+.gsp-excerpt {
+    margin: 0 0 12px;
+    color: #555;
+}
+
+.gsp-meta {
+    font-size: 13px;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.gsp-meta span,
+.gsp-meta a {
+    display: inline-flex;
+    align-items: center;
+}
+
+.gsp-meta a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.gsp-meta a:hover {
+    text-decoration: underline;
+}
+
+.gsp-single {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.gsp-single h1 {
+    margin-bottom: 12px;
+}
+
+.gsp-single .gsp-meta {
+    margin-bottom: 20px;
+}
+
+.gsp-description {
+    margin-bottom: 32px;
+}
+
+.gsp-readme {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 20px;
+}
+
+.gsp-pagination {
+    margin-top: 24px;
+    text-align: center;
+}
