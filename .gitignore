@@ -1,0 +1,22 @@
+# WordPress plugin development
+*.log
+*.tmp
+*.cache
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Node / build tools (if added later)
+node_modules/
+dist/
+build/
+
+# Composer (if added later)
+vendor/
+composer.lock

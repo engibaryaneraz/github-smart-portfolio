@@ -1,0 +1,9 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1200" height="300" fill="#0d1117"/>
+    <text x="50%" y="45%" fill="#ffffff" font-size="60" font-family="Arial, sans-serif" text-anchor="middle">
+        GitHub Smart Portfolio
+    </text>
+    <text x="50%" y="65%" fill="#9ba3b4" font-size="28" font-family="Arial, sans-serif" text-anchor="middle">
+        A WordPress plugin to display GitHub repositories as a portfolio
+    </text>
+</svg>
