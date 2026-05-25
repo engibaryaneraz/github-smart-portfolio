@@ -3,7 +3,7 @@
 A WordPress plugin that automatically imports your GitHub repositories and displays them as a portfolio on your website.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/engibaryaneraz/github-smart-portfolio/main/screenshots/banner.png" width="600" />
+  <img src="https://raw.githubusercontent.com/engibaryaneraz/github-smart-portfolio/main/screenshots/banner_main.svg" width="600" />
 </p>
 
 ---
