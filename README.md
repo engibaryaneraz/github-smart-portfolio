@@ -36,16 +36,6 @@ A WordPress plugin that automatically imports your GitHub repositories and displ
 
 ## 🖼 Screenshots
 
-### Project Archive
-<img src="screenshots/archive.png" width="700"/>
-
-### Single Project Page
-<img src="screenshots/single.png" width="700"/>
-
-### Admin Settings
-<img src="screenshots/admin.png" width="700"/>
-
-
 <p align="center">
   <img src="screenshots/banner.svg" width="800" />
 </p>
